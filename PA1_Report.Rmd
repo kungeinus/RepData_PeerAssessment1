@@ -162,4 +162,6 @@ xyplot(
         ylab = "Average Number of Steps"
 )
 ```
+**Answer To Question:**
+The weekdays and weekends patterns are slight different.The major difference is that during the weekends, the max number of steps taken in 5-min interval is much smaller than weekdays. The peak for weekdays could be caused by walking to the work place.
 
